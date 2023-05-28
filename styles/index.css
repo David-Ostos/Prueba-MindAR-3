@@ -1,4 +1,5 @@
 @import url(button.css);
+@import url(reset.css);
 
 body {
   background-image: url(../../fondos/19995004-ai.png);
@@ -10,5 +11,7 @@ body {
   width: 100vw;
   height: 100vh;
   display: flex;
-  place-items: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
