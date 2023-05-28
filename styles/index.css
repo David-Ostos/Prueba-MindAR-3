@@ -1,10 +1,20 @@
 @import url(button.css);
 @import url(reset.css);
 
+html{
+  background-color: black;
+}
+
 body {
-  background-image: url(../../fondos/19995004-ai.png);
+  background-image: url(https://i.imgur.com/qNcUTwy.png);
   background-size: cover;
   background-position: center;
+}
+
+.logo {
+  position: absolute;
+  top: 15px;
+  left: 15px;
 }
 
 .container{
