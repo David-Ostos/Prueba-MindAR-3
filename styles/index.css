@@ -1,0 +1,14 @@
+@import url(button.css);
+
+body {
+  background-image: url(../../fondos/19995004-ai.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  place-items: center;
+}
