@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "David Ostos <davidostos2@gmail.com> (https://davidostos.co/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
 }
